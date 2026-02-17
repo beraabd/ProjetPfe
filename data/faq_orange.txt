@@ -1,0 +1,50 @@
+Q: Comment recharger mon solde ?
+R: Vous pouvez recharger votre solde via l'application "Orange et Moi" dans la rubrique "Recharge", par carte bancaire, ou en utilisant un code de recharge en composant le 555 suivi du code de recharge. Vous pouvez aussi utiliser Orange Money.
+
+Q: C'est quoi les codes de recharge rapide ?
+R: *1 pour le solde principal, *2 pour les pass internet, *3 pour les pass réseaux sociaux (*6 pour connexion illimitée réseaux sociaux), *5 pour le roaming.
+
+Q: Pourquoi je n'ai pas reçu mon bonus internet de 1Go ?
+R: Le bonus de 1Go (cadeau digital) est crédité automatiquement sous 24h après le paiement de votre facture via l'application. Si le délai est dépassé, vérifiez vos notifications dans l'appli ou contactez le service client au 121.
+
+Q: L'application ne s'ouvre pas après la mise à jour, que faire ?
+R: Veuillez désinstaller l'application, redémarrer votre téléphone, puis réinstaller la dernière version depuis le Play Store ou l'App Store. Vérifiez aussi que vous avez assez d'espace mémoire.
+
+Q: J'ai un écran noir ou blanc sur l'application.
+R: C'est souvent un problème de cache. Allez dans les Paramètres de votre téléphone > Applications > Orange et Moi > Stockage > Vider le cache. Si le problème persiste, vérifiez votre connexion internet.
+
+Q: Comment payer ma facture ?
+R: Allez dans la section "Factures" de l'application, sélectionnez la facture impayée et payez par carte bancaire. Vous recevrez un reçu par SMS. Le paiement est sécurisé par le CMI.
+
+Q: Je n'ai pas reçu le code SMS de confirmation pour mon compte.
+R: Vérifiez que votre numéro est correct (+212...). Si vous ne recevez rien après 5 minutes, essayez de refaire la demande ou vérifiez que votre boîte de réception n'est pas pleine. Parfois, le réseau opérateur peut avoir un léger retard.
+
+Q: C'est quoi le club Orange ?
+R: Le Club Orange est un programme de fidélité qui vous permet de cumuler des points à chaque recharge ou paiement de facture, et de les échanger contre des cadeaux (internet, minutes, smartphones). Consultez votre solde de points dans la rubrique "Club Orange".
+
+Q: Mon solde internet s'épuise trop vite.
+R: Vérifiez vos applications en arrière-plan. Les vidéos (YouTube, TikTok) consomment beaucoup. Vous pouvez suivre votre consommation en temps réel sur l'application Orange et Moi.
+
+Q: Comment activer la 4G+ ?
+R: La 4G+ est activée par défaut si vous avez une carte SIM compatible et un téléphone 4G. Vérifiez dans les paramètres de votre mobile : Réseaux Mobiles > Mode réseau > 4G/LTE/3G/2G (auto).
+
+Q: Je veux changer mon offre ou mon forfait.
+R: Vous pouvez changer d'offre directement sur l'application dans la rubrique "Mon Offre" ou en appelant le 121. Le changement prend effet au prochain cycle de facturation.
+
+Q: Comment récupérer mon code PUK ?
+R: Votre code PUK est disponible sur le support de votre carte SIM. Si vous l'avez perdu, vous pouvez le récupérer via l'application "Orange et Moi" rubrique "Assistance" ou en appelant le service client.
+
+Q: J'ai perdu ma carte SIM, que faire ?
+R: Appelez immédiatement le 121 pour suspendre votre ligne. Ensuite, rendez-vous en agence Orange avec votre CIN pour récupérer une nouvelle carte SIM gardant le même numéro.
+
+Q: Comment configurer internet sur mon mobile ?
+R: Envoyez "config" par SMS au 555. Vous recevrez les paramètres de configuration automatique. Installez-les et redémarrez votre téléphone.
+
+Q: C'est quoi Orange Money ?
+R: Orange Money est un portefeuille électronique qui vous permet de transférer de l'argent, payer des factures, recharger votre ligne et payer chez des commerçants, le tout depuis votre mobile.
+
+Q: Comment contacter le service client ?
+R: Vous pouvez contacter le service client en appelant le 121 depuis votre ligne Orange (gratuit pour les forfaits), ou le 0663121121 depuis un autre poste. Vous pouvez aussi utiliser le chat dans l'application ou nous contacter sur WhatsApp via le site officiel.
+
+Q: Codes USSD utiles.
+R: #555# pour le menu principal, #554# pour le suivi conso, #111# pour la recharge intelligente.

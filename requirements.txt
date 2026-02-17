@@ -1,0 +1,32 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+
+# Data Collection
+google-play-scraper
+beautifulsoup4
+requests
+
+# NLP & Analysis
+nltk
+spacy
+scikit-learn
+transformers
+torch
+
+
+# Chatbot & RAG
+langchain
+langchain-community
+chromadb
+sentence-transformers
+langchain-groq
+# openai  # Uncomment if using OpenAI API
+
+# Web App / Dashboard
+streamlit
+fastapi
+uvicorn
+python-multipart

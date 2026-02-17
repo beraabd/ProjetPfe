@@ -1,0 +1,40 @@
+Contexte général :
+Je suis étudiant en PFE chez Orange Maroc. Mon sujet est : "Benchmark, conception et développement d’un chatbot intelligent intégré aux parcours digitaux, enrichi par l’analyse automatique des feedback clients".
+
+J'ai déjà terminé l'Axe 1 (benchmark des solutions du marché). Je passe maintenant aux Axes 2, 3 et 4.
+
+Objectifs par axe :
+
+AXE 2 : Développer un chatbot IA capable de :
+- S'intégrer dans un parcours digital réel (paiement, recharge, wallet…)
+- Fournir une assistance contextuelle selon l'étape du parcours
+- Comprendre les requêtes en langage naturel
+- Orienter le client sans rupture d'expérience
+
+AXE 3 : Analyse automatique des feedback clients :
+- Collecter des avis clients (Play Store, réseaux sociaux)
+- Analyser automatiquement les sentiments
+- Identifier les thèmes récurrents et irritants clients
+- Alimenter la base de connaissances du chatbot
+
+AXE 4 : Valorisation croisée IA :
+- Exploiter les feedbacks clients pour améliorer les réponses du chatbot
+- Prioriser automatiquement les problématiques clients
+- Assurer l'amélioration continue de l'assistance digitale
+
+Technologies à utiliser :
+- Python
+- LLM (Mistral, Llama, ou GPT)
+- RAG (Retrieval Augmented Generation)
+- NLP et analyse de sentiments
+- Intégration Web/Mobile pour POC
+- Dashboard de visualisation
+
+Je développe sur AntiGravity. J'ai besoin d'un guide technique complet, étape par étape, avec :
+- Le code complet pour chaque composant
+- Les explications techniques détaillées
+- La logique derrière chaque choix
+- Comment intégrer les feedbacks clients dans le chatbot
+- Comment créer un dashboard de visualisation
+
+Structure ta réponse comme un guide technique que je pourrai suivre pas à pas.
